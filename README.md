@@ -24,5 +24,5 @@ That is (Flag == 1) & (Center_region == 1)
 13. M_I : absolute magnitude of I band (HST 814W)
 14. M_B : absolute magnitude of B band
 
-##COSMOS2015 catalog
+## COSMOS2015 catalog
 <ftp://ftp.iap.fr:/pub/from_users/hjmcc/COSMOS2015>
