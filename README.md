@@ -1,5 +1,5 @@
 # data_high-z_mock
-The mock catalogs of zCOSMOS survey and PFS survey, and the catalog for zCOSMOS-bright sample
+The mock catalogs of zCOSMOS survey and PFS survey, the catalog for zCOSMOS-bright sample and the measurement of LF, GSMF, projected 2PCF with zCOSMOS-bright sample. Paper: <https://arxiv.org/abs/2008.13733>
 ## Mock catalog
 We have constructed the mock catalogs for zCOSMOS survey and PFS survey. 
 Our data website is under construction. So if you want those mocks, please contact: mengjc18@mails.tsinghua.edu.cn

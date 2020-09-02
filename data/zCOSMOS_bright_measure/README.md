@@ -1,5 +1,7 @@
 # The galaxy abundance and clustering measured from zCOSMOS bright sample
 
+We measure the B-band luminosity function, stellar mass function and projected 2PCF with the zCOSMOS bright sample. The details can be found in <https://arxiv.org/abs/2008.13733>. Here are our results.
+
 ## "luminosity_function_B.hdf5" 
 B-band luminosity function measured from the zCOSMOS bright sample.
 In the hdf5 file, 
