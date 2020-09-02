@@ -26,3 +26,6 @@ That is (Flag == 1) & (Center_region == 1)
 
 ## COSMOS2015 catalog
 <ftp://ftp.iap.fr:/pub/from_users/hjmcc/COSMOS2015>
+
+## Measurements of zCOSMOS bright sample
+The measurements of LF, SMF and projected 2PCF are in the data/zCOSMOS_bright_measure
