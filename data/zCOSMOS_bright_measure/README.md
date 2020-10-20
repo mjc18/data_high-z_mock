@@ -23,9 +23,10 @@ In the hdf5 file,
 ## "projected_2pcf.hdf5" 
 Projected 2PCF measured from the zCOSMOS bright sample
 In the hdf5 file,
->the group "wp_z1_z2" store the projected 2PCF in the redshift range [z1, z2]
->>the subgroups "mass_m1_m2" store the wp in the stellar mass bins [m1, m2], where the unit of m1 and m2 is log10(M_*/M_sun)
->>>the members in the subgroup are  
->>>"r_p": projected distance, unit is Mpc/h  
->>>"wp": value of projected 2PCF  
->>>"wp_err": error of projected 2PCF  
+>the group "wp_z1_z2" store the projected 2PCF in the redshift range [z1, z2]. The subgroups "mass_m1_m2" store the wp in the stellar mass bins [m1, m2], where the unit of m1 and m2 is log10(M_*/M_sun)
+>>the members in the subgroup are  
+>>"r_p": projected distance, unit is Mpc/h  
+>>"wp": value of projected 2PCF  
+>>"wp_err": error of projected 2PCF  
+
+## "F_theta.hdf5"
