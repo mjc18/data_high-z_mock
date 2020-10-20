@@ -30,3 +30,8 @@ In the hdf5 file,
 >>"wp_err": error of projected 2PCF  
 
 ## "F_theta.hdf5"
+The function f(\theta)=(1+w_p)/(1+w_s) to correct the fiber collision effect.
+>the group "F_theta_z1_z2" store the f(\theta) in the redshift range [z1, z2]. The subgroups "mass_m1_m2" store the f(\theta) in the stellar mass bins [m1, m2], where the unit of m1 and m2 is log10(M_*/M_sun)
+>>the members in the subgroup are  
+>>"theta": angular distance, unit is degree  
+>>"F_theta": value of f(\theta)
